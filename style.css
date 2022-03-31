@@ -211,7 +211,7 @@ footer{
 .about{
     line-height: 1.7;
     max-width: 1900px;
-    padding: 7rem;
+    padding: 4rem;
     font-family: var(--mono);
     margin: 0;
 }
